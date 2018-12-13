@@ -1,0 +1,6 @@
+aeroplane
+bicycle
+bird
+boat
+bus
+car
