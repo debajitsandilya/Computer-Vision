@@ -38,7 +38,7 @@ import cv2
 
 
 # folder = "./video_results/bounding_boxes"
-folder = r'C:\Users\grant\Documents\School\Deep Learning\Project_v2\trunk\video_results\all_boxes'
+folder = r'C:\Users\debajit\Documents\School\Deep Learning\Project_v2\trunk\video_results\all_boxes'
 
 # images = [f for f in os.listdir(folder) if os.path.isfile(os.path.join(folder, f))]
 images = []
